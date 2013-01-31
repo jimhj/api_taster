@@ -5,6 +5,7 @@ require 'active_support/dependencies'
 require 'api_taster/engine'
 require 'api_taster/route'
 require 'api_taster/mapper'
+require 'api_taster/config'
 require 'api_taster/form_builder'
 
 module ApiTaster
